@@ -12,3 +12,4 @@ Uses a matrix of passengers, each represented by a feature vector, which is norm
   )
 Uses gradient descent (gradDescent.m) to find optimal theta vector (weights of each feature), which is then fed into an algorithm that
   predicts (threshold: 0.5).
+Specify regularization parameter, lambda, in gradDescent.m.
