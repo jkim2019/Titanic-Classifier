@@ -1,6 +1,6 @@
 # Titanic-Classifier
 
-Learning algorithm using a logitstic regression classifier to predict whether or not a passenger survived.
+Learning algorithm using a logistic regression classifier to predict whether or not a passenger survived.
 Uses a matrix of passengers, each represented by a feature vector, which is normalized and stored in SFPPSAE_normMat.mat.
   (SFPPSAE -  Sex
               Fare
